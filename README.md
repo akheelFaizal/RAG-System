@@ -1,5 +1,3 @@
-# Code Documentation RAG with Syntax Understanding (OpenAI + Local Mode)
-
 ---
 title: rag
 emoji: 📚
@@ -10,6 +8,8 @@ sdk_version: "1.48.1"
 app_file: app.py
 pinned: false
 ---
+# Code Documentation RAG with Syntax Understanding (OpenAI + Local Mode)
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
