@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Code Documentation RAG with Syntax Understanding (OpenAI + Local Mode)
-
-A Retrieval-Augmented Generation (RAG) system for software repositories that can now run **both with OpenAI** and **fully offline**.
 
 ---
 title: Rag
@@ -15,6 +12,11 @@ tags:
 pinned: false
 short_description: first project
 license: mit
+---
+
+
+A Retrieval-Augmented Generation (RAG) system for software repositories that can now run **both with OpenAI** and **fully offline**.
+
 ---
 
 ## Features
