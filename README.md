@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: Rag
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: a system to upload github repo and ask related questions.
+license: mit
 ---
 
 # Welcome to Streamlit!
