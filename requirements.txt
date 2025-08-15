@@ -1,6 +1,6 @@
 streamlit>=1.37.0
 chromadb>=0.4.15
-sqlite3
+sqlite3 >= 3.35.0
 pysqlite3-binary
 gitpython>=3.1.43
 python-dotenv>=1.0.1
