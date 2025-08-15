@@ -1,18 +1,17 @@
+---
+title: rag
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.48.1"
+app_file: app.py
+pinned: false
+---
 # Code Documentation RAG with Syntax Understanding (OpenAI + Local Mode)
 
----
-title: Rag
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
-pinned: false
-short_description: first project
-license: mit
----
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 
 A Retrieval-Augmented Generation (RAG) system for software repositories that can now run **both with OpenAI** and **fully offline**.
