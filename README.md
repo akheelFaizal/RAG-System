@@ -14,6 +14,7 @@ pinned: false
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 
+
 A Retrieval-Augmented Generation (RAG) system for software repositories that can now run **both with OpenAI** and **fully offline**.
 
 ---
