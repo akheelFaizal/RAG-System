@@ -1,7 +1,5 @@
 streamlit>=1.37.0
 chromadb>=0.4.15
-sqlite3 >= 3.35.0
-pysqlite3-binary
 gitpython>=3.1.43
 python-dotenv>=1.0.1
 pygments>=2.18.0
@@ -10,3 +8,4 @@ regex>=2024.5.15
 openai>=1.35.3
 pydantic>=2.8.2
 pyyaml>=6.0.1
+sentence-transformers>=2.2.2
