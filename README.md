@@ -13,7 +13,7 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-
+deployed app url : https://huggingface.co/spaces/akheel007/rag
 
 
 
