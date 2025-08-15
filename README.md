@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 # Code Documentation RAG with Syntax Understanding (OpenAI + Local Mode)
 
 A Retrieval-Augmented Generation (RAG) system for software repositories that can now run **both with OpenAI** and **fully offline**.
 
+---
+title: Rag
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+- streamlit
+pinned: false
+short_description: first project
+license: mit
 ---
 
 ## Features
@@ -78,3 +91,5 @@ CHROMA_DIR=.chroma
 - You can **switch between modes** by editing `.env` and restarting the app.
 
 ---
+
+
